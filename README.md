@@ -1,6 +1,6 @@
 # LinkedList
 
-Given pointer to the head node of a linked list, the task is to reverse the linked list. We need to reverse the list by changing links between nodes.
+Given pointer to the head node of a linked list, the task is to reverse the linked list. This has to be done by reversing the list by changing links between nodes.
 
 For example:
 
