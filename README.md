@@ -2,6 +2,8 @@
 
 Given pointer to the head node of a linked list, the task is to reverse the linked list. This has to be done by reversing the list by changing links between nodes.
 
+This soltion will have a time and space compexity of O(n) 
+
 For example:
 
 Input : Head of following linked list  
